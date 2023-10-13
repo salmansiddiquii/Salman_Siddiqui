@@ -116,6 +116,10 @@
     margin: 14px 0;
 }
 
+.connect:hover{
+     background-color: dodgerblue ;
+    color: white ;
+}
 
 /*About Me */
 
@@ -168,7 +172,15 @@
     width: 350px;
 }
 
+.projects-list projects:hover{
+        background-color: dodgerblue ;
+        color: white;
+}
 
+.btn a:hover{
+        background-color: dodgerblue ;
+        color: white;
+}
 
 .topic {
     color: #045d94 ;
