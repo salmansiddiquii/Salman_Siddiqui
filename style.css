@@ -193,11 +193,14 @@
 }
 
 .Journey {
-    width: 70%;
+    width: 50%;
     font-size: 1.2rem;
     line-height: 1.5;
+    font-weight: 500;
+    opacity: 0.8;
     margin: auto;
     padding-top: 10px;
+
 }
 
 
@@ -241,7 +244,7 @@
 
 .skill-p {
     font-size: 1.2rem;
-
+    opacity: 0.8;
 }
 
 .qoute {
@@ -271,7 +274,7 @@
     width: 70%;
     margin: auto;
     display: flex;
-
+  
 }
 
 
@@ -306,8 +309,14 @@
     border-radius: 10px;
     font-size: 1.2rem;
     font-weight: 600;
+   
 }
 
+p{
+    opacity: 0.8;
+    font-weight: 500;
+    font-size: 1.1rem;
+}
 
 /*section 5 */
 
