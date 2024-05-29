@@ -103,11 +103,7 @@
     padding: 10px 20px;
     background-color: rgba(0, 0, 0, 0.839);
     border-radius: 20px;
-
     box-shadow: 2px 2px 2px rgb(55, 71, 131);
-
-
-
 }
 
 
@@ -292,7 +288,7 @@
 }
 
 .box {
-    box-shadow: 10px 5px 5px rgb(37, 32, 32);
+    box-shadow: 0 5px 15px rgb(150, 156, 156);
     padding: 20px;
     border-radius: 20px;
     background: linear-gradient(300deg, #04c0ff, #9ad7ff , #bbbdf1);
@@ -409,7 +405,8 @@ button {
     font-size: 20px;
     padding: 10px 20px 10px 20px;
     text-decoration: none;
-    box-shadow: 2px 2px 5px 2px rgb(55, 71, 131);
+    box-shadow: 0 5px 15px rgb(150, 156, 156);
+
 }
 
 
